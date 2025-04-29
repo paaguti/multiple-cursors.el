@@ -1,4 +1,4 @@
-;;; multiple-cursors-core.el --- An experiment in multiple cursors for emacs.
+;;; multiple-cursors-core.el --- An experiment in multiple cursors for emacs.  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2012-2016 Magnar Sveen
 
